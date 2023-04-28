@@ -5,7 +5,7 @@ how to run it :
 <br>
 pip3 install -r requiuirements.txt
 <br>
-Run the Script:
+Run the Script :
 <br>
 python3 main.py
 <br>
