@@ -3,7 +3,7 @@ It is an simple python script to get the IP address  INFORMATION!!<br>
 <br>
 how to run it :<br>
 <br>
-pip3 install -r requiuirements.txt
+pip3 install -r requiuirements.txt<br>
 <br>
 Run the Script :<br>
 <br>
